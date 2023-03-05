@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    
+    background-image: linear-gradient(#fc9e46, #f89a57ef);
+}
+
+.top{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.inputbox{
+    margin: auto;
+    border: 1px solid ;
+    height: 30px;
+    width: 50%; 
+    text-align: center;
+    padding-top: 10px;  
+
+    display: inline-block;
+}
+
+.textinput{
+    color: #ffffff;
+    font-size: 15px;
+    display: inline;
+    
+}
+
+.backbox{
+    border: 1px solid ;
+    padding: 10px 5px 13px 5px;
+    display: inline;
+}
+
+.backspace{
+    display: inline;
+}
+
+.num{
+    color: #000000;
+}
+
+.numbox{
+    background-color: #eeeeee;
+    width: 17%;
+    border: 1px solid #ffffff;
+    padding: 2%;
+    display: inline-block;
+}
+
+.namedowm{
+    text-align: right;
+    margin-top: 5%;
+    margin-right: 2%;
+    margin-bottom: 0;
+}
+
+.name{
+    color: #efefef;
+}
