@@ -92,7 +92,7 @@ const App = () =>{
             </div>
         </div>
         <div className="namedowm">
-            <span className="name">Created by Arunkumar M - AK</span>
+            <span className="name">By AK works</span>
         </div>
         </>
     );
